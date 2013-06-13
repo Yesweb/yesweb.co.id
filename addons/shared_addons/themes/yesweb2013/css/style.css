@@ -201,6 +201,10 @@
 		margin-top: 12px;
 		float: right;
 	}
+	.liheadermenu li {
+		display: block;
+		float: left;
+	}
 	.basicfontcolor {
 		color: #53a3d7;
 	}
