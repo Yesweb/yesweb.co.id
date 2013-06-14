@@ -193,17 +193,14 @@
 	}
 
 	.liheadermenu {
+	}
+	.liheadermenu li {
 		border:solid 0px red;
 		float: left;
 		padding: 0px 15px 0px 15px;
 		font-size: 11px;
 		color: #4b5359;
 		margin-top: 12px;
-		float: right;
-	}
-	.liheadermenu li {
-		display: block;
-		float: left;
 	}
 	.basicfontcolor {
 		color: #53a3d7;
