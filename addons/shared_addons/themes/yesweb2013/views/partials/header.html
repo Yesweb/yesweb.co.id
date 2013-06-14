@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>{{ template:title }}</title>
+	{{ template:metadata }}
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	{{ theme:css file="base.css" }}
+	{{ theme:css file="skeleton.css" }}
+	{{ theme:css file="layout.css" }}
+	{{ theme:css file="style.css" }}
+	{{ theme:css file="stylesheet.css" }}
+	
+	{{ theme:js file="prototype.js" }}
+	{{ theme:js file="scriptaculous.js" }}
+	{{ theme:js file="simple-slide-show.js" }}
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+</head>
+<body>
+<div style="width:auto; height:7px; background:#53a3d7; border:solid 0px red;"></div>
+
+
+	<!-- Primary Page Layout
+	================================================== -->
+
+	<!-- Delete everything in this .container and get started on your own site! -->
+
+	<div class="container">
+		<div class="one-third column" style="border: solid 0px red;">
+			<h1 style="margin-top:20px;">yesweb</h1>
+		</div>
+		<div class="ten columns liheadermenu" style="border: solid 0px red; float:left; margin-top:23px;">
+			<ul class="remove-bottom visibilitymenu1" style="border: solid 0px red;">
+				{{ navigation:links group="header" }}
+				<!--<li class="liheadermenu"><a href="#">CONTACT US</a></li>
+				<li class="liheadermenu"><a href="#">CAREER</a></li>
+				<li class="liheadermenu"><a href="#">ACTIVITIES</a></li>
+				<li class="liheadermenu"><a href="#">NEWS</a></li>
+				<li class="liheadermenu"><a href="#">SOLUTIONS</a></li>
+				<li class="liheadermenu"><a href="#">ABOUT US</a></li>
+				<li class="liheadermenu"><a href="#">HOME</a></li> -->
+			</ul>
+			
+			<select id="selectList" class="button visibilitymenu2" style="float:right;">
+				<option value="Option 1" selected>Menu</option>
+				<option value="Option 2">HOME</option>
+				<option value="Option 3">ABOUT US</option>
+				<option value="Option 4">SOLUTIONS</option>
+				<option value="Option 4">NEWS</option>
+				<option value="Option 4">ACTIVITIES</option>
+				<option value="Option 4">CAREER</option>
+				<option value="Option 4">CONTACT US</option>
+			</select>
+
+		</div>

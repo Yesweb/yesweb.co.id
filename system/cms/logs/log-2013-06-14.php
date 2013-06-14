@@ -80,3 +80,16 @@ ERROR - 2013-06-14 05:58:27 --> Severity: Runtime Notice  --> is_a(): Deprecated
 ERROR - 2013-06-14 05:58:30 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
 ERROR - 2013-06-14 05:59:51 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
 ERROR - 2013-06-14 06:00:24 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:26:31 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:26:52 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:26:57 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:27:00 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 06:27:02 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:27:04 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 06:27:06 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:27:08 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 06:27:11 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:27:32 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:27:36 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:31:51 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 06:46:09 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
