@@ -2,10 +2,10 @@
 	{{ if { url:segments segment="1" default="home" } == 'home' }}
 		{{ theme:partial name="slideshow" }}
 		{{ theme:partial name="content_default" }}
+	{{ else }}
+		{{ theme:partial name="content_page" }}
 	{{ endif }}
 	{{ if { url:segments segment="1" default="home" } == 'blog' }}
 		{{ theme:partial name="content_news" }}
-	{{ else }}
-		{{ theme:partial name="content_page" }}
 	{{ endif }}
 {{ theme:partial name="footer" }}
