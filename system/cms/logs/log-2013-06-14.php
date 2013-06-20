@@ -246,3 +246,27 @@ ERROR - 2013-06-14 15:03:28 --> Severity: Runtime Notice  --> is_a(): Deprecated
 ERROR - 2013-06-14 15:03:44 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
 ERROR - 2013-06-14 15:03:58 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
 ERROR - 2013-06-14 15:04:01 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:08:10 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:08:12 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\libraries\Simplepie.php 1911
+ERROR - 2013-06-14 15:08:14 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:08:27 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:08:44 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:08:49 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:08:51 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 15:08:53 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:08:57 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:08:59 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 15:09:01 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:09:03 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 15:09:04 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:09:06 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 15:09:11 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:09:16 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:09:18 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 15:09:19 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:09:23 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:09:25 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 15:09:26 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:09:29 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-14 15:09:29 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-14 15:09:32 --> Page Missing: images/favicon.ico
