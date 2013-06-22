@@ -236,3 +236,17 @@
 		background-image:url('../img/newslist_01.png');
 		background-repeat:repeat-x;
 	}
+	.archive.blog_categories.navigation {
+		margin-right:30px;
+		! important;
+	}
+	.archive h3 {
+		font-size:18px;
+	}
+	.blog_categories h3 {
+		font-size:18px;
+	}
+	.navigation h3 {
+		font-size:18px;
+	}
+
