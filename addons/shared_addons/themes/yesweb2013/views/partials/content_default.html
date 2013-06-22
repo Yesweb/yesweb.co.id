@@ -17,6 +17,7 @@
 			<h3 class="basicfontcolor">News</h3>
 			<hr style="border:solid 1px #53a3d7;">
 			<!--news start-->
+			{{ blog:posts limit="3" }}
 			<div class="eight columns newshome01" style="margin:0px; border:solid 0px red;"></div>
 			<div class="eight columns newshome02" style="margin:0px; border:solid 0px red;">
 				<div class="column calendar" style="border:solid 0px red;">
@@ -25,13 +26,16 @@
 					<div class="mm">2013</div>
 				</div>
 				<div class="column newshome">
-					<p class="newshometitle">Lorem Ipsum</p>
-					<p class="newshomecont">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam... more</p>
+					<p class="newshometitle">{{ title }}</p>
+					<p class="newshomecont">{{ intro }}... <a href="{{ url }}" title="Read more about: {{ title }}">more</a></p>
 				</div>
 			</div>
 			<div class="eight columns newshome03" style="margin:0px 0px 10px 0px; border:solid 0px red;"></div>
+			{{ /blog:posts }}
 			<!--news end-->
-			<!--news start-->
+
+		<!-- sample
+			<!--news start
 			<div class="eight columns newshome01" style="margin:0px; border:solid 0px red;"></div>
 			<div class="eight columns newshome02" style="margin:0px; border:solid 0px red;">
 				<div class="column calendar" style="border:solid 0px red;">
@@ -46,7 +50,7 @@
 			</div>
 			<div class="eight columns newshome03" style="margin:0px 0px 10px 0px; border:solid 0px red;"></div>
 			<!--news end-->
-			<!--news start-->
+			<!--news start
 			<div class="eight columns newshome01" style="margin:0px; border:solid 0px red;"></div>
 			<div class="eight columns newshome02" style="margin:0px; border:solid 0px red;">
 				<div class="column calendar" style="border:solid 0px red;">
@@ -60,5 +64,6 @@
 				</div>
 			</div>
 			<div class="eight columns newshome03" style="margin:0px 0px 10px 0px; border:solid 0px red;"></div>
-			<!--news end-->
+			<!--news end
+		-->
 		</div>

@@ -236,9 +236,14 @@
 		background-image:url('../img/newslist_01.png');
 		background-repeat:repeat-x;
 	}
-	.archive.blog_categories.navigation {
+	.archive {
 		margin-right:30px;
-		! important;
+	}
+	.blog_categories {
+		margin-right:30px;
+	}
+	.navigation {
+		margin-right:30px;
 	}
 	.archive h3 {
 		font-size:18px;
@@ -249,4 +254,38 @@
 	.navigation h3 {
 		font-size:18px;
 	}
-
+	.list-unstyled {
+		font-size:11px;
+		color:#767676;
+	}
+	.blog_categories ul {
+		font-size:11px;
+		color:#767676;
+	}
+	.right_panel {
+		float:right;
+		text-align:right;
+		min-height:100px;
+		background:#f2f2f2;
+	}
+	.post h3 {
+		font-size:16px;
+		font-weight:bold;
+		color:#767676;
+	}
+	.post p {
+		font-size:11px;
+		color:red;
+	}
+	.date {
+		font-size:11px;
+		color:#767676;
+	}
+	.category {
+		font-size:11px;
+		color:#767676;
+	}
+	.author {
+		font-size:11px;
+		color:#767676;
+	}
