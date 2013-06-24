@@ -23,6 +23,9 @@
 	{{ theme:css file="style.css" }}
 	{{ theme:css file="stylesheet.css" }}
 	
+	{{ theme:css file="dropdown.css" }}
+	{{ theme:css file="default.advanced.css" }}
+	
 	{{ theme:js file="prototype.js" }}
 	{{ theme:js file="scriptaculous.js" }}
 	{{ theme:js file="simple-slide-show.js" }}
@@ -53,22 +56,15 @@
 			<h1 style="margin-top:20px;">yesweb</h1>
 		</div>
 		<div class="ten columns liheadermenu" style="border: solid 0px red; margin-top:23px;">
-			<ul class="remove-bottom visibilitymenu1" style="border: solid 0px red; float:right;">
-			{{ navigation:links group="header" indent="tab" }}
+			<ul id="head-nav" class="remove-bottom visibilitymenu1" style="border: solid 0px red; float:right;">
+			{{ navigation:links group="header" max_depth="5" }}
 			</ul>
-			<!--
-			<ul class="remove-bottom visibilitymenu2" style="border: solid 0px red; float:right;">
-				<li class="">Menu
+			
+			<ul id="head-nav" class="remove-bottom visibilitymenu2 dropdown dropdown-horizontal" style="border: solid 0px red; float:left;">
+				<li class="dir">Menu
 					<ul>
-						<li class=""><a href="#">CONTACT US</a></li>
-						<li class=""><a href="#">CAREER</a></li>
-						<li class=""><a href="#">ACTIVITIES</a></li>
-						<li class=""><a href="#">NEWS</a></li>
-						<li class=""><a href="#">SOLUTIONS</a></li>
-						<li class=""><a href="#">ABOUT US</a></li>
-						<li class=""><a href="#">HOME</a></li>
+					{{ navigation:links group="header" max_depth="5" }}
 					</ul>
 				</li>
 			</ul>
-			-->
 		</div>

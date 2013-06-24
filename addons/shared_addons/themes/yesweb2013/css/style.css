@@ -289,3 +289,37 @@
 		font-size:11px;
 		color:#767676;
 	}
+	
+/* Header Menu */
+nav ul#head-nav { width: 1000px; height: 35px; padding: 14px 0 2px 0; margin: 0 auto; }
+nav ul#head-nav ul { height: 0; left: 0; position: absolute; top: 18px; padding-top: 20px; visibility: hidden; width: 149px; z-index: 1000; }
+nav ul#head-nav li { position: relative; list-style: none; margin: 0 35px 0 0; padding: 0; float: left; }
+nav ul#head-nav li a, ul#head-nav li a:visited{ font-size: 12px; font-weight: bold; color: #7d7d7d; letter-spacing: 0.5px; text-shadow: 1px 1px 0px #ffffff; }
+nav ul#head-nav li a:hover, ul#head-nav a:visited:hover { color: #ff6900; text-decoration: none; }
+nav ul#head-nav li a:active, ul#head-nav li a:visited:active { color: #ffffff; }
+nav ul#head-nav li.has_current > a { color: #4d4d4d; }
+
+/* Header Menu second level */
+nav ul#head-nav li:hover ul { visibility: visible; }/*make 2 visible when hovering on 1*/
+nav ul#head-nav ul li { border: 1px solid #e9e9e9; padding: 3px; background: #d8d8d8; width: 149px; }
+nav ul#head-nav ul li:hover { background: #c9c9c9; width: 149px; visibility: visible; }/*keep it visible*/
+
+/* Header Menu third level */
+nav ul#head-nav ul ul li { visibility: hidden; }/*make 3 visible when hovering on 2*/
+nav ul#head-nav ul li:hover ul li { visibility: visible; }
+nav ul#head-nav ul ul { left: 156px; top:-1px; width:149px; padding-top: 0; }
+
+/* Header Menu fourth level */
+nav ul#head-nav ul li:hover ul ul li { visibility: hidden; }/*hide by default*/
+nav ul#head-nav ul ul li:hover ul li { visibility: visible; }/*make 4 visible when hovering on 3*/
+nav ul#head-nav ul ul { left: 156px; top:-1px; width:149px; padding-top: 0; }
+
+/* Header Menu fifth level */
+nav ul#head-nav ul ul li:hover ul ul li { visibility: hidden; }/*hide by default*/
+nav ul#head-nav ul ul ul li:hover ul li { visibility: visible; }/*make 5 visible when hovering on 4*/
+nav ul#head-nav ul ul { left: 156px; top:-1px; width:149px; padding-top: 0; }
+
+/* Header Menu sixth level */
+nav ul#head-nav ul ul ul li:hover ul ul li { visibility: hidden; }/*hide by default*/
+nav ul#head-nav ul ul ul ul li:hover ul li { visibility: visible; }/*make 6 visible when hovering on 5*/
+nav ul#head-nav ul ul { left: 156px; top:-1px; width:149px; padding-top: 0; }
