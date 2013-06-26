@@ -420,3 +420,11 @@ ERROR - 2013-06-26 15:36:28 --> Page Missing: images/favicon.ico
 ERROR - 2013-06-26 15:36:30 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
 ERROR - 2013-06-26 15:36:34 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
 ERROR - 2013-06-26 15:37:25 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-26 15:44:51 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-26 15:44:55 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-26 15:44:57 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-26 15:44:59 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-26 15:45:01 --> Page Missing: images/favicon.ico
+ERROR - 2013-06-26 15:45:15 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-26 15:45:18 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\libraries\Simplepie.php 1911
+ERROR - 2013-06-26 15:45:29 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
