@@ -289,7 +289,14 @@
 		font-size:11px;
 		color:#767676;
 	}
+	.body {
+		font-size:12px;
+	}
 	
+#comments {
+	visibility:hidden;
+}
+
 /* Header Menu */
 nav ul#head-nav { width: 1000px; height: 35px; padding: 14px 0 2px 0; margin: 0 auto; }
 nav ul#head-nav ul { height: 0; left: 0; position: absolute; top: 18px; padding-top: 20px; visibility: hidden; width: 149px; z-index: 1000; }

@@ -11,9 +11,9 @@
 			<div class="eight columns newshome01" style="margin:0px; border:solid 0px red;"></div>
 			<div class="eight columns newshome02" style="margin:0px; border:solid 0px red;">
 				<div class="column calendar" style="border:solid 0px red;">
-					<div class="dd">16</div> 
-					<div class="mm">Mar</div>
-					<div class="mm">2013</div>
+					<div class="dd">{{ helper:date timestamp=created_on format="j" }}</div> 
+					<div class="mm">{{ helper:date timestamp=created_on format="F" }}</div>
+					<div class="mm">{{ helper:date timestamp=created_on format="Y" }}</div>
 				</div>
 				<div class="column newshome">
 					<p class="newshometitle">{{ title }}</p>
