@@ -1,0 +1,30 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-06-28 04:36:44 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:37:20 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:37:24 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:37:43 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:37:45 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:37:46 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:37:48 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\libraries\Simplepie.php 1911
+ERROR - 2013-06-28 04:38:20 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:38:29 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:39:17 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:39:39 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:39:45 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:39:53 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:40:24 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:40:37 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:40:44 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:40:49 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:41:08 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 04:41:10 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\libraries\Simplepie.php 1911
+ERROR - 2013-06-28 04:41:28 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 05:17:28 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 05:17:51 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 05:20:31 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 05:20:47 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 05:20:49 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\libraries\Simplepie.php 1911
+ERROR - 2013-06-28 05:30:47 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
+ERROR - 2013-06-28 05:30:49 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\libraries\Simplepie.php 1911
+ERROR - 2013-06-28 05:30:50 --> Severity: Runtime Notice  --> is_a(): Deprecated. Please use the instanceof operator C:\AppServ\www\yesweb\yesweb.co.id\system\cms\core\MY_Controller.php 78
