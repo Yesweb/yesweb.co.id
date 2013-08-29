@@ -21,12 +21,13 @@
 ul.dropdown {
  font: normal 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
  text-transform: uppercase;
+ width:100%;
 }
 
 	ul.dropdown li {
 	 padding: 7px 0;
-	 background-color: #000;
-	 color: #fff;
+	 /*background-color: #000;
+	 color: #fff;*/
 	 line-height: normal;
 	}
 
